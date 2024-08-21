@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CCBPTimeline-ReactJS/static/css/main.2fc751ed.chunk.css",
+    "main.js": "/CCBPTimeline-ReactJS/static/js/main.e0d3b7da.chunk.js",
+    "main.js.map": "/CCBPTimeline-ReactJS/static/js/main.e0d3b7da.chunk.js.map",
+    "runtime-main.js": "/CCBPTimeline-ReactJS/static/js/runtime-main.742d56cd.js",
+    "runtime-main.js.map": "/CCBPTimeline-ReactJS/static/js/runtime-main.742d56cd.js.map",
+    "static/js/2.2e8715d1.chunk.js": "/CCBPTimeline-ReactJS/static/js/2.2e8715d1.chunk.js",
+    "static/js/2.2e8715d1.chunk.js.map": "/CCBPTimeline-ReactJS/static/js/2.2e8715d1.chunk.js.map",
+    "index.html": "/CCBPTimeline-ReactJS/index.html",
+    "static/css/main.2fc751ed.chunk.css.map": "/CCBPTimeline-ReactJS/static/css/main.2fc751ed.chunk.css.map",
+    "static/js/2.2e8715d1.chunk.js.LICENSE.txt": "/CCBPTimeline-ReactJS/static/js/2.2e8715d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742d56cd.js",
+    "static/js/2.2e8715d1.chunk.js",
+    "static/css/main.2fc751ed.chunk.css",
+    "static/js/main.e0d3b7da.chunk.js"
+  ]
+}
