@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.p-img {
+  width: 360px;
+}
+
+.p-head {
+  color: #1e293b;
+}
+
+.p-para {
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.p-desc {
+  color: #171f46;
+  font-weight: 500;
+}
+
+.p-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.p-icon {
+  display: flex;
+  align-items: center;
+}
+
+.p-link {
+  color: #0967d2;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+@media (max-width: 576px) {
+  .p-img {
+    width: 100px;
+  }
+  .p-head {
+    font-size: 10px;
+  }
+}

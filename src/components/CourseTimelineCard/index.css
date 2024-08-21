@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.c-con {
+  margin: 0;
+  padding: 0;
+}
+
+.c-top-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.c-icon-con {
+  display: flex;
+  align-items: center;
+}
+
+.c-head {
+  color: #1e293b;
+}
+
+.c-para {
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.c-desc {
+  color: #171f46;
+  font-weight: 500;
+}
+
+.c-ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.c-li {
+  background-color: silver;
+  margin: 5px;
+  padding: 5px;
+  color: #1e293b;
+  font-weight: bold;
+}

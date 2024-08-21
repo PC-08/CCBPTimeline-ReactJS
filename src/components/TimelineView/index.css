@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px;
+  font-family: 'roboto';
+}
+
+.mainhead {
+  color: #171f46;
+  font-size: 18px;
+  font-family: 600;
+}
+
+.mainhead2 {
+  color: #1e293b;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.chr {
+  width: 900px;
+}
+
+@media (max-width: 576px) {
+  .chr {
+    width: 350px;
+  }
+}
